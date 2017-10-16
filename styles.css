@@ -1,6 +1,5 @@
-img {
-    width: 200px;
-}
 body {
+    color: red;
     background-color: grey;
+    background-image:url("https://livewallpaper.info/wp-content/uploads/2016/07/black-pattern-wallpaper.jpg");
 }
